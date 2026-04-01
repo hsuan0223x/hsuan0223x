@@ -1,17 +1,64 @@
-<h1 align="center">Hi, I'm hsuan0223x</h1>
-<h3 align="center">A CTF player/CyberSecurity Researcher</h3>
+# Hi 👋, I'm hsuan 🦈
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsuan0223x&label=Profile%20views&color=0e75b6&style=flat" alt="hsuan0223x" /> </p>
+> A CTF Player & CyberSecurity Researcher
 
-- 📝 I regularly write articles on [https://blog.hsuan0223x.com](https://blog.hsuan0223x.com)
+## About me 
 
-- 📫 How to reach me **me@hsuan0223x.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hsuan0223x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsuan0223x" height="30" width="40" /></a>
-<a href="https://instagram.com/hsuan0223x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsuan0223x" height="30" width="40" /></a>
-</p>
+- A college student who switched from an CS major to a IM major.
+- Learning Reverse Engineering / Binary Exploition / Pentest
+- Goals: OSCP Cert / Good grade on CTF / Red Team or CyberSecurity Researcher Intern
+- A Gamer :D
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank">
+  <img src="https://skillicons.dev/icons?i=go" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/>
+</a>
+</p>
+

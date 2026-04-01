@@ -5,7 +5,7 @@
 ## About me 
 
 - A college student who switched from an CS major to a IM major.
-- Learning Reverse Engineering / Binary Exploition / Pentest
+- Focus on Reverse Engineering / Pentest
 - Goals: OSCP Cert / Good grade on CTF / Find a Red Team or CyberSecurity Researcher Intern
 - A Gamer :D
 
